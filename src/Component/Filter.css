@@ -1,0 +1,119 @@
+
+.Day {
+    position: absolute;
+    width: 66px;
+    height: 26px;
+    left: 600px;
+    top: 81px;
+}
+.Dayy{
+    position: absolute;
+    width: 66px;
+    height: 26px;
+    left: 300px;
+    top: 0.5px;
+}
+.Satus1{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: -80px;
+    top: 100px;
+}
+.item1{
+    position: absolute;
+    width: 66px;
+    height: 26px;
+    left: 0px;
+    top: 150px;
+
+}
+.item2{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 50px;
+    top: 150px;
+
+}
+.item3{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 150px;
+    top: 150px;
+
+}
+.item4{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 300px;
+    top: 150px;
+
+}
+.Check-in{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: -80px;
+    top: 200px;
+}
+.item5{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 50px;
+    top: 50px;
+}
+.item6{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 50px;
+}
+.item7{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 250px;
+    top: 50px;
+}
+.item8{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 55px;
+    top: 80px;
+}
+.item9{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 155px;
+    top: 80px;
+}
+.item10{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 250px;
+    top: 80px;
+}
+.loc{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 250px;
+    top: 100px;
+  
+
+    color: #FF993C;
+
+
+  
+}
+
+
+ 
